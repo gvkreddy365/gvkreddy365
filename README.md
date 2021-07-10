@@ -2,7 +2,7 @@
 - 👀 I’m interested in AUTOMATING software
 - 🌱 I’m currently learning AI automation
 - 💞️ I’m looking to collaborate on AUTOMATion of IOT softwares
-- 📫 How to reach me email-gvkreddy365@gmail.com
+- 📫 How to reach me gvkreddy365@gmail.com
 
 <!---
 gvkreddy365/gvkreddy365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
